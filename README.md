@@ -1,10 +1,4 @@
-# Описание
-В репозитории находятся мои решения проектных работ курса yandex.practicum специализации "Data science".
+# Description
+The repository contains solutions for my courses and projects
 
-В проектах отсутствуют датасеты, являющиеся собственностью компании yandex.
-
-Подробные описания находятся внутри соответствующих работ.
-
-# Проекты
-
-1. Исследование надежности заемщиков
+Detailed descriptions are found inside the corresponding works.
